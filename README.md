@@ -8,9 +8,9 @@
 
 I am an IT Specialist currently supporting FWC-SD with an extensive background in systems administration, networking, and computer security.
  
- 🌱 I’m currently learning AWS Cloud Computing Services.
+ 🌱 I’m currently working on and supporting migrations to AWS Cloud Computing Services.
  
- :books: I want to learn CI/CD Pipelining and the Agile Workflow
+ :books: I am studying for the CISM exam and Cisco CCNP Security Exam.
 
  💬 Come reach out to me at oscar.tjoar@gmail.com.
 
